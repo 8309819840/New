@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>aa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42dd04a-a9ae-4821-85e0-5b0edf9dd724</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Atc test data').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3c45dea1-a37b-4f2f-a3b3-804b9f5ceb77</id>
+      <masked>false</masked>
+      <name>veriable_Name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_sequence_fa fa-sort-up table-header-sortchange</name>
+   <tag></tag>
+   <elementGuidId>4163d097-96b0-4ad6-8098-1bdcb6b93bf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='kibana-body']/div/div/div/div[3]/discover-app/div/div[2]/div[2]/div/div[2]/div[2]/doc-table/div/table/thead/tr/th[3]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sort-up.table-header-sortchange</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>headerClass(name)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>cycleSortOrder(name)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltip</name>
+      <type>Main</type>
+      <value>Sort by sequence</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltip-append-to-body</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sort-up table-header-sortchange</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kibana-body&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;app-wrapper&quot;]/div[@class=&quot;app-wrapper-panel&quot;]/div[@class=&quot;application tab-discover&quot;]/discover-app[@class=&quot;app-container&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;discover-wrapper col-md-10&quot;]/div[@class=&quot;discover-content&quot;]/div[@class=&quot;results&quot;]/div[@class=&quot;discover-table&quot;]/doc-table[1]/div[@class=&quot;doc-table-container&quot;]/table[@class=&quot;kbn-table table&quot;]/thead[1]/tr[1]/th[3]/span[@class=&quot;table-header-name&quot;]/i[@class=&quot;fa fa-sort-up table-header-sortchange&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='kibana-body']/div/div/div/div[3]/discover-app/div/div[2]/div[2]/div/div[2]/div[2]/doc-table/div/table/thead/tr/th[3]/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

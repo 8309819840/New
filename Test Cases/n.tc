@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>n</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edfe32fa-c01c-4391-9efa-e18341ba969b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Atc test data').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>9c8d0c9a-1450-4cae-8bc7-03231c8efcb8</id>
+      <masked>false</masked>
+      <name>Segment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Atc test data').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>59671f9a-81cf-49f3-8a82-5b280d10235c</id>
+      <masked>false</masked>
+      <name>Language</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Atc test data').getValue(3, 2)</defaultValue>
+      <description></description>
+      <id>9038822a-52e2-43b8-b9b9-b7d239f8ef49</id>
+      <masked>false</masked>
+      <name>UserId</name>
+   </variable>
+</TestCaseEntity>
